@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage":"https://littlejtawsome.github.io/gitpractice",
   "scripts": {
-    "deploy":"gh-pages -d ROOT",
+    "deploy":"gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
